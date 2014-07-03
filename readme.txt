@@ -7,5 +7,5 @@ git don't change
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Merge made by the 'recursive' strategy.
-
+use "git reset HEAD <file>..." to unstage
 
