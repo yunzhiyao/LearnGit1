@@ -3,3 +3,4 @@ Git is free software under the GPL. yjty
 Git has a mutable index called stage
 Git has a mutable index called stage.
 Git tracks changes
+git don't change
